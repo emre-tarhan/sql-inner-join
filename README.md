@@ -1,4 +1,4 @@
-# SQL | INNER JOIN
+# PHP & SQL | INNER JOIN
 SQL | INNER JOIN ile Tabloları Birleştirme [Örnek Anlatımlı] 
 
 Ürünlerimizi kayededeceğimiz bir yazılım yazdığımızı düşünelim,
